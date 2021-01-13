@@ -13,7 +13,8 @@ import CadastrarProdutos from './Pages/CadastrarProdutos';
 import CadastrarServicos from './Pages/CadastrarServicos';
 import { RecuperarSenha } from './Pages/RecuperarSenha';
 import MinhaConta from './Pages/MinhaConta';
-import PrivateRoute from './PrivateRoute'
+import PrivateRoute from './PrivateRoute';
+
 
 const Rotas = () => {
     return (
